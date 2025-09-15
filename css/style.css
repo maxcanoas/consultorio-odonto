@@ -506,7 +506,7 @@ p {
 @media (max-width: 600px) {
     .hero-background {
         background-image: linear-gradient(135deg, rgba(43, 92, 230, 0.1) 0%, rgba(6, 182, 212, 0.1) 100%),
-                          url('/imagens/casal-clientes-pq.png');
+                          url('../imagens/casal-clientes-pq.png');
     }
 }
 
